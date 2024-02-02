@@ -1,23 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T08:44:52.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="zkW0tSPgsbiaKiZnry16" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T08:51:34.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="tWHG9fyXhMRooPvWRBjq" version="23.0.1" type="github">
   <diagram name="第 1 页" id="j_07Ym5FIF2X4ZPxHcAr">
-    <mxGraphModel dx="1233" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
+    <mxGraphModel dx="1083" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-3" value="Adaptive Partitioning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Adaptive Partitioning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="46" y="80" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-4" value="Partition 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-63" y="150" width="109" height="30" as="geometry" />
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RKz9n2dJhe-HLLSOtMHz-4" target="RKz9n2dJhe-HLLSOtMHz-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-5" value="Partition 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="150" width="109" height="30" as="geometry" />
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Partition 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-63" y="137" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RKz9n2dJhe-HLLSOtMHz-5" target="RKz9n2dJhe-HLLSOtMHz-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Partition 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="137" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RKz9n2dJhe-HLLSOtMHz-6" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;......&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="186" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="186" y="137" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-7" value="Partition N" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="246" y="150" width="109" height="30" as="geometry" />
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RKz9n2dJhe-HLLSOtMHz-7" target="RKz9n2dJhe-HLLSOtMHz-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Partition N&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="246" y="137" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RKz9n2dJhe-HLLSOtMHz-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.111;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.936;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RKz9n2dJhe-HLLSOtMHz-3" target="RKz9n2dJhe-HLLSOtMHz-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -39,56 +48,74 @@
         </mxCell>
         <mxCell id="RKz9n2dJhe-HLLSOtMHz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RKz9n2dJhe-HLLSOtMHz-31" target="RKz9n2dJhe-HLLSOtMHz-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="146" y="10" as="targetPoint" />
+            <mxPoint x="146" y="22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-31" value="Original Logic Network" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="61" y="-40" width="170" height="30" as="geometry" />
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;Original Logic Network&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="-14" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RKz9n2dJhe-HLLSOtMHz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RKz9n2dJhe-HLLSOtMHz-32" target="RKz9n2dJhe-HLLSOtMHz-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-32" value="Remove Sequential Logic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="46" y="20" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-35" value="MFFC_based Partitioning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="46" y="220" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.111;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="39" y="180" as="sourcePoint" />
-            <mxPoint x="60" y="218" as="targetPoint" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="146" y="80" />
+              <mxPoint x="146" y="80" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.609;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="145.76" y="181" as="sourcePoint" />
-            <mxPoint x="145.76" y="220" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-32" value="&lt;font face=&quot;Times New Roman&quot;&gt;Remove Sequential Logic&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="32" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.88;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.925;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="RKz9n2dJhe-HLLSOtMHz-35">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="256" y="180" as="sourcePoint" />
-            <mxPoint x="291" y="218" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-35" value="&lt;font face=&quot;Times New Roman&quot;&gt;MFFC_based Partitioning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="245" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-39" value="Partition 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-63" y="280" width="70" height="30" as="geometry" />
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;Partition 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="60" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-40" value="Partition 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="280" width="70" height="30" as="geometry" />
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-40" value="&lt;font face=&quot;Times New Roman&quot;&gt;Partition 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="60" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-41" value="Partition N" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="280" width="70" height="30" as="geometry" />
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-41" value="&lt;font face=&quot;Times New Roman&quot;&gt;Partition N&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="504" y="60" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RKz9n2dJhe-HLLSOtMHz-42" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;......&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="93" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="447" y="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RKz9n2dJhe-HLLSOtMHz-43" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;......&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="212" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="566" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-44" value="Partition N+M" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="265.5" y="280" width="84.5" height="30" as="geometry" />
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-44" value="&lt;font face=&quot;Times New Roman&quot;&gt;Partition N+M&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="619.5" y="60" width="84.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RKz9n2dJhe-HLLSOtMHz-45" target="RKz9n2dJhe-HLLSOtMHz-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-45" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Size &amp;gt; 10000&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-47.12" y="185" width="77.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-46" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Size &amp;gt; 10000&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95.87" y="185" width="77.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RKz9n2dJhe-HLLSOtMHz-47" target="RKz9n2dJhe-HLLSOtMHz-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="301" y="270" />
+              <mxPoint x="300" y="270" />
+              <mxPoint x="300" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-47" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Size &amp;gt; 10000&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261.87" y="185" width="77.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.442;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RKz9n2dJhe-HLLSOtMHz-46" target="RKz9n2dJhe-HLLSOtMHz-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="230" as="sourcePoint" />
+            <mxPoint x="135" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
