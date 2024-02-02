@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T08:56:53.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="bItdWDbgJ8ILMV4v4ucX" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T08:58:15.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Hf8wMsggvYxDzkfdqOnh" version="23.0.1" type="github">
   <diagram name="第 1 页" id="j_07Ym5FIF2X4ZPxHcAr">
-    <mxGraphModel dx="833" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
+    <mxGraphModel dx="1233" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Adaptive Partitioning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Adaptive Partitioning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="46" y="80" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Partition 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Partition 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-63" y="137" width="109" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Partition 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Partition 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="80" y="137" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RKz9n2dJhe-HLLSOtMHz-6" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;......&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="186" y="137" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Partition N&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Partition N&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="246" y="137" width="109" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RKz9n2dJhe-HLLSOtMHz-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.111;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.936;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RKz9n2dJhe-HLLSOtMHz-3" target="RKz9n2dJhe-HLLSOtMHz-4">
@@ -42,7 +42,7 @@
             <mxPoint x="146" y="22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;Original Logic Network&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;Original Logic Network&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="61" y="-14" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RKz9n2dJhe-HLLSOtMHz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RKz9n2dJhe-HLLSOtMHz-32" target="RKz9n2dJhe-HLLSOtMHz-3">
@@ -53,7 +53,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKz9n2dJhe-HLLSOtMHz-32" value="&lt;font face=&quot;Times New Roman&quot;&gt;Remove Sequential Logic&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RKz9n2dJhe-HLLSOtMHz-32" value="&lt;font face=&quot;Times New Roman&quot;&gt;Remove Sequential Logic&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="46" y="32" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RKz9n2dJhe-HLLSOtMHz-35" value="&lt;font face=&quot;Times New Roman&quot;&gt;MFFC_based Partitioning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
