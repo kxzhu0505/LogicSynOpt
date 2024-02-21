@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T07:26:42.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="mwcjllswrVGXFL3oMEuA" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T07:27:41.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="5C4-U6H5liAsiuycbnSq" version="23.1.1" type="github">
   <diagram name="第 1 页" id="HAvIKgZ25yOHQbioZGKh">
     <mxGraphModel dx="1979" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fzru5klA7RKhJBc94vuA-1" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Verilogs&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="fzru5klA7RKhJBc94vuA-1" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Verilogs&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="50" y="100" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fzru5klA7RKhJBc94vuA-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=none;" edge="1" parent="1">
+        <mxCell id="fzru5klA7RKhJBc94vuA-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#008a00;strokeColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="139.5" as="sourcePoint" />
-            <mxPoint x="350" y="139.5" as="targetPoint" />
+            <mxPoint x="250" y="139.5" as="sourcePoint" />
+            <mxPoint x="340" y="139.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fzru5klA7RKhJBc94vuA-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=none;" edge="1" parent="1">
+        <mxCell id="fzru5klA7RKhJBc94vuA-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#008a00;strokeColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="139.5" as="sourcePoint" />
-            <mxPoint x="630" y="139.5" as="targetPoint" />
+            <mxPoint x="480" y="139.5" as="sourcePoint" />
+            <mxPoint x="570" y="139.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fzru5klA7RKhJBc94vuA-5" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;Yosys&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="380" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="fzru5klA7RKhJBc94vuA-5" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;Yosys&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fzru5klA7RKhJBc94vuA-6" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;Design Compiler&lt;/b&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="105" width="240" height="70" as="geometry" />
+        <mxCell id="fzru5klA7RKhJBc94vuA-6" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;Design Compiler&lt;/b&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=none;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="580" y="105" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
