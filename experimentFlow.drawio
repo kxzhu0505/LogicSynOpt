@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-23T14:23:44.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="pnbZi06_-Alo4T4RkTeg" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-23T14:28:19.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="P72mtA8CN9dmph0aNYfU" version="24.6.2" type="github">
   <diagram name="第 1 页" id="HAvIKgZ25yOHQbioZGKh">
-    <mxGraphModel dx="1263" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="1528" dy="1795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-el-lTCZ7dYY3-WtjOfP-181" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="426.14" y="-655" width="310" height="440" as="geometry" />
+          <mxGeometry x="426.14" y="-655" width="370" height="440" as="geometry" />
         </mxCell>
         <mxCell id="-el-lTCZ7dYY3-WtjOfP-271" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=3;shadow=1;" vertex="1" parent="-el-lTCZ7dYY3-WtjOfP-181">
           <mxGeometry x="-20" y="-10" width="330" height="450" as="geometry" />
@@ -262,7 +262,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-el-lTCZ7dYY3-WtjOfP-229" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;Logic Network&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-el-lTCZ7dYY3-WtjOfP-181">
-          <mxGeometry x="160.00000000000003" y="32.153846153846146" width="52.5" height="10.153846153846153" as="geometry" />
+          <mxGeometry x="2.842170943040401e-14" y="25.383846153846147" width="52.5" height="10.153846153846153" as="geometry" />
         </mxCell>
         <mxCell id="-el-lTCZ7dYY3-WtjOfP-230" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=3;endWidth=11.998324256388774;endSize=4.893506493506493;width=5.806451612903226;" edge="1" parent="-el-lTCZ7dYY3-WtjOfP-181">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -441,6 +441,9 @@
         <mxCell id="-el-lTCZ7dYY3-WtjOfP-267" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;2 Optimize&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-el-lTCZ7dYY3-WtjOfP-181">
           <mxGeometry x="173.75" y="308" width="76.25" height="10.15" as="geometry" />
         </mxCell>
+        <mxCell id="-el-lTCZ7dYY3-WtjOfP-281" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Partition-based&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;RL Exploration Engine&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=3;" vertex="1" parent="-el-lTCZ7dYY3-WtjOfP-181">
+          <mxGeometry x="164.48" y="-0.14000000000000012" width="125.52" height="63.14" as="geometry" />
+        </mxCell>
         <mxCell id="-el-lTCZ7dYY3-WtjOfP-274" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;entryX=1;entryY=0.75;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.463;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-el-lTCZ7dYY3-WtjOfP-271" target="-el-lTCZ7dYY3-WtjOfP-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="566.14" y="115" as="sourcePoint" />
@@ -456,7 +459,10 @@
           <mxGeometry x="261.88" y="-710" width="392.5" height="10.15" as="geometry" />
         </mxCell>
         <mxCell id="-el-lTCZ7dYY3-WtjOfP-276" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Write Back&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="261.88" y="-170.14999999999998" width="392.5" height="10.15" as="geometry" />
+          <mxGeometry x="240" y="-205" width="392.5" height="10.15" as="geometry" />
+        </mxCell>
+        <mxCell id="-el-lTCZ7dYY3-WtjOfP-283" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Partition-based&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;&quot;&gt;RL Exploration Engine&lt;/b&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-170" width="370" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
