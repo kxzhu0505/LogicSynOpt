@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T08:41:02.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="lfnqP0EMDkVi3GIr85pi" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T08:43:47.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="3XqZuQSOfxdTKpi0zGYB" version="24.6.2" type="github">
   <diagram name="第 1 页" id="j_07Ym5FIF2X4ZPxHcAr">
-    <mxGraphModel dx="2103" dy="1844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="350" math="0" shadow="0">
+    <mxGraphModel dx="1757" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="350" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -532,16 +532,16 @@
             <mxPoint x="-494.5" y="-648" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7EjFisQ0ylx8nIiFaVZQ-94" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;Original Logic Network&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7EjFisQ0ylx8nIiFaVZQ-94" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 15px;&quot;&gt;Original Logic Network&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=15;strokeWidth=3;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-382.5" y="-790" width="189" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7EjFisQ0ylx8nIiFaVZQ-96" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Remove Sequential Logic&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-242" y="-740" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7EjFisQ0ylx8nIiFaVZQ-97" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="7EjFisQ0ylx8nIiFaVZQ-97" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=3;width=12;endSize=4.445714285714286;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-288.42" y="-740" as="sourcePoint" />
-            <mxPoint x="-288.42" y="-690" as="targetPoint" />
+            <mxPoint x="-296.92" y="-745" as="sourcePoint" />
+            <mxPoint x="-296.92" y="-695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
