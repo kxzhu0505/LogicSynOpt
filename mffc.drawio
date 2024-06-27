@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T10:09:37.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="qaKvjqT137GVRT9803s_" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T10:17:07.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="kbaQQwf00Uj5moKOjzz1" version="24.6.3" type="github">
   <diagram name="第 1 页" id="32cf2SjD67FVLoWvo91B">
     <mxGraphModel dx="1683" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="500" math="0" shadow="0">
       <root>
@@ -570,7 +570,7 @@
         <mxCell id="BgFvJU5Psar2_dKR7bJg-340" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=3;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="568" y="227.5" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zDzOwucjqz7RAaWKK_5_-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Maximum fanout free cones (MFFCs)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zDzOwucjqz7RAaWKK_5_-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;MFFCs for different nodes&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="75" y="490" width="426" height="30" as="geometry" />
         </mxCell>
       </root>
