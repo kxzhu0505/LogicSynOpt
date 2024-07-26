@@ -71,6 +71,18 @@
         <mxCell id="uOctNLvVrp7-WB9e10jX-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;State&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Reward&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;strokeWidth=3;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="530" y="240" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="uOctNLvVrp7-WB9e10jX-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=3;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="240" as="sourcePoint" />
+            <mxPoint x="290" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOctNLvVrp7-WB9e10jX-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=3;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="290" as="sourcePoint" />
+            <mxPoint x="500" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
