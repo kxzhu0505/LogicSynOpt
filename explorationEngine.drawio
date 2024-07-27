@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T10:28:26.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="78si482oWOQzJnScHCUm" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.5">
   <diagram name="第 1 页" id="2leY5HMp6Ett028nWdfq">
-    <mxGraphModel dx="3219" dy="2495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1350" math="0" shadow="0">
+    <mxGraphModel dx="2425" dy="2535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1350" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,7 +229,7 @@
             <mxPoint x="-700" y="-985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMd7Z6TBkllvfIrQ2Aga-68" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;1 Partition&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MMd7Z6TBkllvfIrQ2Aga-68" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;Step 1 Partition&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-680" y="-1065" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MMd7Z6TBkllvfIrQ2Aga-69" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
@@ -388,7 +388,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMd7Z6TBkllvfIrQ2Aga-228" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;3 Merge&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MMd7Z6TBkllvfIrQ2Aga-228" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;Setp 3 Merge&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-655" y="-75" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MMd7Z6TBkllvfIrQ2Aga-229" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=4;endWidth=47.5992438563327;endSize=9.921212121212122;width=13.93939393939394;" parent="1" edge="1">
@@ -397,7 +397,7 @@
             <mxPoint x="-681" y="-25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMd7Z6TBkllvfIrQ2Aga-230" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 34px;&quot;&gt;2 Optimize&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MMd7Z6TBkllvfIrQ2Aga-230" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 34px;&quot;&gt;Step 2 Optimize&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-495" y="-415" width="215" height="30" as="geometry" />
         </mxCell>
       </root>
