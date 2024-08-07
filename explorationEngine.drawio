@@ -238,14 +238,8 @@
             <mxPoint x="32.900000000000006" y="110.29787234042551" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LbmJ7f7Hz9VkS4XE6J_R-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;strokeWidth=3;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="-363" width="400" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="MMd7Z6TBkllvfIrQ2Aga-230" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 34px;&quot;&gt;RL-Based Logic Optimize&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="-320.5" width="380" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LbmJ7f7Hz9VkS4XE6J_R-6" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-1155" y="-793.5" width="1210" height="478.5" as="geometry" />
+        <mxCell id="LbmJ7f7Hz9VkS4XE6J_R-6" value="RL-Based Logic Optimize" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1155" y="-793.5" width="1235" height="488.5" as="geometry" />
         </mxCell>
         <mxCell id="MMd7Z6TBkllvfIrQ2Aga-69" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" parent="LbmJ7f7Hz9VkS4XE6J_R-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -349,6 +343,9 @@
             <mxPoint x="170" y="180" as="sourcePoint" />
             <mxPoint x="170" y="145" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LbmJ7f7Hz9VkS4XE6J_R-4" value="&lt;b style=&quot;font-size: 34px;&quot;&gt;RL-Based Logic Optimize&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;strokeWidth=3;shadow=1;" parent="LbmJ7f7Hz9VkS4XE6J_R-6" vertex="1">
+          <mxGeometry x="845" y="353.5" width="325" height="115" as="geometry" />
         </mxCell>
         <mxCell id="LbmJ7f7Hz9VkS4XE6J_R-7" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1035" y="-1461" width="735" height="235" as="geometry" />
