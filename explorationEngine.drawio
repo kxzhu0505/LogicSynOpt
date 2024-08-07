@@ -232,7 +232,7 @@
             <mxPoint x="-715" y="-985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMd7Z6TBkllvfIrQ2Aga-75" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 34px;&quot;&gt;Sub-network&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MMd7Z6TBkllvfIrQ2Aga-75" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 34px;&quot;&gt;Sub-networks&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-165" y="-883.5" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MMd7Z6TBkllvfIrQ2Aga-142" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -331,8 +331,8 @@
             <mxPoint x="32.900000000000006" y="110.29787234042551" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MMd7Z6TBkllvfIrQ2Aga-228" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;Setp 3 Merge&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-670" y="-75" width="210" height="30" as="geometry" />
+        <mxCell id="MMd7Z6TBkllvfIrQ2Aga-228" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;Setp 3 Subnetworks Merge&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-650" y="-75" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MMd7Z6TBkllvfIrQ2Aga-229" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=4;endWidth=47.5992438563327;endSize=9.921212121212122;width=13.93939393939394;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
