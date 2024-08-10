@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zDzOwucjqz7RAaWKK_5_-1" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;MFFCs for Different Nodes&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="87" y="550" width="426" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="VlMvp-50Jbbvg_0DPZDf-1" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=3;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="25" y="7.5" width="550" height="520" as="geometry" />
         </mxCell>
