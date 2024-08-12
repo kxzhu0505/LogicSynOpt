@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uOctNLvVrp7-WB9e10jX-1" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Gate-&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 17px; background-color: initial;&quot;&gt;Level&lt;/b&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Verilog&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-99" y="114.5" width="99" height="60" as="geometry" />
+          <mxGeometry x="-110" y="114.5" width="99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uOctNLvVrp7-WB9e10jX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="27" width="710" height="190" as="geometry" />
