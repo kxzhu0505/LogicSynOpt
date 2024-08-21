@@ -28,7 +28,7 @@
             <mxPoint x="-1731.8405922551256" y="-675.8693486805166" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uPHxaw53Mdg2stfCjcGG-7" value="&lt;b style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; color=&quot;#ffffff&quot;&gt;&amp;nbsp;Adaptive MFFC-based Hypergraph Partition&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;strokeWidth=3;shadow=1;container=0;" parent="1" vertex="1">
+        <mxCell id="uPHxaw53Mdg2stfCjcGG-7" value="&lt;b style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot; color=&quot;#ffffff&quot;&gt;&amp;nbsp;Two-stage MFFC-based Hypergraph Partition&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;strokeWidth=3;shadow=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="-1861.71" y="-827.73" width="276.35" height="95.74" as="geometry" />
         </mxCell>
         <mxCell id="uPHxaw53Mdg2stfCjcGG-8" value="&lt;span style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;......&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1">
