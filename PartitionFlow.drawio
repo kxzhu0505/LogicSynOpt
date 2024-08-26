@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="j_07Ym5FIF2X4ZPxHcAr">
-    <mxGraphModel dx="2465" dy="2021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="550" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2928" dy="2233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="550" pageHeight="860" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,9 +8,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-259.7931034482756" y="514" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7EjFisQ0ylx8nIiFaVZQ-98" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;And Inverter Graph&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=18;strokeWidth=3;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-423.93" y="-858" width="279" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7EjFisQ0ylx8nIiFaVZQ-132" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;strokeWidth=3;width=12;endSize=4.445714285714286;shadow=1;fontSize=18;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -81,9 +78,6 @@
             <mxPoint x="-277.34000000000003" y="-65" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWjIhd71VnCCE1YYqo9q-6" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Partitioned Gate Level Verilog&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=18;strokeWidth=3;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-416.5" y="-61" width="279" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="xWjIhd71VnCCE1YYqo9q-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-428" y="-548" width="296.97" height="257" as="geometry" />
         </mxCell>
@@ -108,11 +102,11 @@
         <mxCell id="XvL0Aqur6_jCMQlNLn5S-1" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Stage 1: Coarse-grained Partition&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-440" y="-765" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BfRxkR6zQDN4HbglDn2J-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;strokeWidth=3;width=12;endSize=4.445714285714286;shadow=1;fontSize=18;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-281.42" y="-900" as="sourcePoint" />
-            <mxPoint x="-281.26000000000005" y="-864" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="BfRxkR6zQDN4HbglDn2J-4" value="&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;And Inverter Graph&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-393.55" y="-850" width="230" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="BfRxkR6zQDN4HbglDn2J-5" value="&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;Partitioned Gate Level&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;Verilog&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-408.8" y="-60" width="260.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
