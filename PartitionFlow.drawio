@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.7">
   <diagram name="第 1 页" id="j_07Ym5FIF2X4ZPxHcAr">
-    <mxGraphModel dx="2465" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="550" pageHeight="870" math="0" shadow="0">
+    <mxGraphModel dx="2465" dy="2021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="550" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,6 +107,12 @@
         </mxCell>
         <mxCell id="XvL0Aqur6_jCMQlNLn5S-1" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Stage 1: Coarse-grained Partition&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-440" y="-765" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BfRxkR6zQDN4HbglDn2J-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;strokeWidth=3;width=12;endSize=4.445714285714286;shadow=1;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-281.42" y="-900" as="sourcePoint" />
+            <mxPoint x="-281.26000000000005" y="-864" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
