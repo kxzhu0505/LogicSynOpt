@@ -42,7 +42,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-el-lTCZ7dYY3-WtjOfP-275" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;AIG&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-el-lTCZ7dYY3-WtjOfP-275" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;i&gt;AIG&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1180.5" y="-675.1500000000001" width="74.12" height="10.15" as="geometry" />
         </mxCell>
         <mxCell id="H0RHcH_2FTHYZ-mKpaNJ-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="SU_nRj_41NOhbr6IneJR-1" target="H0RHcH_2FTHYZ-mKpaNJ-295" edge="1">
@@ -92,7 +92,7 @@
         <mxCell id="H0RHcH_2FTHYZ-mKpaNJ-228" value="&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;ABC&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;AIG Generation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=3;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-1483" y="-482" width="220" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="H0RHcH_2FTHYZ-mKpaNJ-237" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Gate Level Verilog&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="H0RHcH_2FTHYZ-mKpaNJ-237" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;i&gt;Gate Level Verilog&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1180.5" y="-36.94999999999999" width="205.88" height="10.15" as="geometry" />
         </mxCell>
         <mxCell id="H0RHcH_2FTHYZ-mKpaNJ-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="H0RHcH_2FTHYZ-mKpaNJ-248" target="H0RHcH_2FTHYZ-mKpaNJ-252" edge="1">
