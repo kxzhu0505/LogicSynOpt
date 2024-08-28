@@ -97,7 +97,7 @@
         <mxCell id="IY5S4Ec8WqqE0r2Iqz8L-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="xTtSK3jkWQ4TyL-IIgwB-14" target="mWC_7gm0NGvsqLe8Leoa-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xTtSK3jkWQ4TyL-IIgwB-14" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;Gate Level Verilog&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&amp;nbsp;Subnetwrks&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" parent="1" vertex="1">
+        <mxCell id="xTtSK3jkWQ4TyL-IIgwB-14" value="&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;Gate Level Verilog&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&amp;nbsp;Subnetworks&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=4;" parent="1" vertex="1">
           <mxGeometry x="-758" y="-960.5" width="413" height="109" as="geometry" />
         </mxCell>
         <mxCell id="xTtSK3jkWQ4TyL-IIgwB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;" parent="1" source="mWC_7gm0NGvsqLe8Leoa-26" edge="1">
