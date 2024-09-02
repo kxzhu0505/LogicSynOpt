@@ -28,7 +28,7 @@
           <mxGeometry x="-371.93" y="-556" width="108" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7EjFisQ0ylx8nIiFaVZQ-117" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=3;fillColor=#d0cee2;strokeColor=#56517e;fontSize=18;arcSize=30;" parent="1" vertex="1">
-          <mxGeometry x="-503.56" y="-78" width="460" height="118" as="geometry" />
+          <mxGeometry x="-503.56" y="-78" width="273.56" height="118" as="geometry" />
         </mxCell>
         <mxCell id="7EjFisQ0ylx8nIiFaVZQ-118" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;Partition 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontStyle=1;fontSize=18;strokeWidth=3;shadow=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-488.59" y="-59" width="108" height="40" as="geometry" />
@@ -43,10 +43,10 @@
           <mxGeometry x="-361.59" y="-59" width="108" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7EjFisQ0ylx8nIiFaVZQ-122" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;Partition N+1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontStyle=1;fontSize=18;strokeWidth=3;shadow=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-431.05" y="-4" width="113.5" height="40" as="geometry" />
+          <mxGeometry x="131.49999999999994" y="-200" width="113.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7EjFisQ0ylx8nIiFaVZQ-123" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;Partition N+M&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontStyle=1;fontSize=18;strokeWidth=3;shadow=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-232.55" y="-9" width="125" height="40" as="geometry" />
+          <mxGeometry x="120" y="-50" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7EjFisQ0ylx8nIiFaVZQ-124" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;......&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=18;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-305.59" y="-4" width="60" height="30" as="geometry" />
