@@ -9,7 +9,7 @@
             <mxPoint x="-266.5389655172414" y="-110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IHA92KQq_NijXk_jOCyx-46" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=3;fontSize=18;arcSize=16;" parent="1" vertex="1">
+        <mxCell id="IHA92KQq_NijXk_jOCyx-46" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;fontSize=18;arcSize=16;" parent="1" vertex="1">
           <mxGeometry x="-471.1" y="-350" width="410" height="210" as="geometry" />
         </mxCell>
         <mxCell id="RKz9n2dJhe-HLLSOtMHz-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontSize=15;strokeWidth=3;" parent="1" edge="1">
@@ -87,7 +87,7 @@
         <mxCell id="BfRxkR6zQDN4HbglDn2J-4" value="&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;And Inverter Graph&lt;/font&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#136cb7;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-380.21999999999997" y="-1126" width="230" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="BfRxkR6zQDN4HbglDn2J-5" value="&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;Partitioned Gate Level&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;Verilog&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b13e23;strokeColor=#000000;strokeWidth=3;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="BfRxkR6zQDN4HbglDn2J-5" value="&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;Partitioned Gate Level&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;Verilog&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#b13e23;strokeColor=#000000;strokeWidth=2;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-396.82000000000005" y="-110" width="260.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0tODEHoR0FGv6Y3S5fYB-1" value="&lt;br&gt;&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;&quot;&gt;Stage 1: Coarse-grained Partition&lt;/b&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" parent="1" vertex="1">
