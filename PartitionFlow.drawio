@@ -78,7 +78,7 @@
           <mxGeometry x="-357.19" y="-375" width="186" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XvL0Aqur6_jCMQlNLn5S-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#FEF3CD;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-415.21999999999997" y="-1057" width="300" height="261" as="geometry" />
+          <mxGeometry x="-450" y="-1057" width="370" height="177" as="geometry" />
         </mxCell>
         <mxCell id="BfRxkR6zQDN4HbglDn2J-4" value="&lt;span style=&quot;font-size: 18px; font-weight: 700;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;And Inverter Graph&lt;/font&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#136cb7;strokeColor=#000000;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-380.21999999999997" y="-1126" width="230" height="42" as="geometry" />
