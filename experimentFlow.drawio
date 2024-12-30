@@ -50,8 +50,8 @@
         <mxCell id="SU_nRj_41NOhbr6IneJR-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Yosys&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1674" y="-403" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H0RHcH_2FTHYZ-mKpaNJ-75" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Subnetworks Merge&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fcbb11;strokeColor=#000000;strokeWidth=2;shadow=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="-1413.72" y="-110" width="201.44" height="38" as="geometry" />
+        <mxCell id="H0RHcH_2FTHYZ-mKpaNJ-75" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Subnetworks Merge&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#000000;strokeWidth=2;shadow=1;container=0;gradientColor=#FCBB11;" parent="1" vertex="1">
+          <mxGeometry x="-1413.72" y="-119" width="201.44" height="38" as="geometry" />
         </mxCell>
         <mxCell id="MAslqFbUonPrWmBKUDa1-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="H0RHcH_2FTHYZ-mKpaNJ-73" target="H0RHcH_2FTHYZ-mKpaNJ-189" edge="1">
           <mxGeometry relative="1" as="geometry" />
