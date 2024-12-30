@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="25.0.3">
   <diagram name="第 1 页" id="2leY5HMp6Ett028nWdfq">
-    <mxGraphModel dx="2765" dy="1334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="2971" dy="1464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,14 +21,11 @@
         <mxCell id="xTtSK3jkWQ4TyL-IIgwB-12" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;And Inverter Graph&lt;/font&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23;fillColor=#136cb7;strokeColor=#121212;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1347.75" y="-590" width="223" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JNxmvh4w0vHAei_3oK9w-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="JNxmvh4w0vHAei_3oK9w-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.497;exitY=0.953;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="rEc13uRQ9SxcuGnw7vvb-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1234" y="-460.5" as="sourcePoint" />
             <mxPoint x="-1237" y="-438.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="It7i3TktfvbQqpe2QVci-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Two-stage MFFC-based Hypergraph Partition&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7b711;strokeColor=#000000;strokeWidth=2;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-1349" y="-527.5" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="It7i3TktfvbQqpe2QVci-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="It7i3TktfvbQqpe2QVci-73" target="It7i3TktfvbQqpe2QVci-46" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -103,21 +100,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="It7i3TktfvbQqpe2QVci-93" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Subnetwork Merge&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7b711;strokeColor=#000000;strokeWidth=2;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-1349" y="-111" width="220" height="48.5" as="geometry" />
-        </mxCell>
-        <mxCell id="It7i3TktfvbQqpe2QVci-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="It7i3TktfvbQqpe2QVci-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="rEc13uRQ9SxcuGnw7vvb-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1236.4199999999998" y="-126.5" as="sourcePoint" />
             <mxPoint x="-1236" y="-111" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1236" y="-119" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="It7i3TktfvbQqpe2QVci-98" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;Optimized Verilog&lt;/font&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=23;fillColor=#ad3d22;strokeColor=#121212;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-1345.5" y="-47" width="223" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="It7i3TktfvbQqpe2QVci-99" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.522;exitY=0.974;exitDx=0;exitDy=0;entryX=0.502;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="It7i3TktfvbQqpe2QVci-93" target="It7i3TktfvbQqpe2QVci-98" edge="1">
+        <mxCell id="It7i3TktfvbQqpe2QVci-99" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.514;exitY=1.005;exitDx=0;exitDy=0;entryX=0.502;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="rEc13uRQ9SxcuGnw7vvb-8" target="It7i3TktfvbQqpe2QVci-98" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1235.33" y="-56.5" as="sourcePoint" />
+            <mxPoint x="-1234.1599999999999" y="-63.76099999999997" as="sourcePoint" />
             <mxPoint x="-1235.33" y="-34.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -207,6 +204,12 @@
         </mxCell>
         <mxCell id="rEc13uRQ9SxcuGnw7vvb-6" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;STATE&lt;/b&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;REWARD&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=none;fontStyle=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="-952.25" y="-295.19" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rEc13uRQ9SxcuGnw7vvb-7" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Two-stage MFFC-based Hypergraph Partition&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF7EB3;strokeColor=#000000;strokeWidth=2;shadow=1;container=0;fontColor=#ffffff;gradientColor=#9A4DFF;" vertex="1" parent="1">
+          <mxGeometry x="-1355.35" y="-530" width="238.19" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="rEc13uRQ9SxcuGnw7vvb-8" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Subnetworks Merge&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;strokeColor=#000000;strokeWidth=2;shadow=1;container=0;gradientColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="-1336.97" y="-107" width="201.44" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
