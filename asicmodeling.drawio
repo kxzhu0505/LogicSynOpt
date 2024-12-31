@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.2">
   <diagram name="第 1 页" id="BYLMfou5CTJKFt67lV0u">
-    <mxGraphModel dx="2257" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="15" math="0" shadow="0">
+    <mxGraphModel dx="1558" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="15" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,6 +137,9 @@
             <mxPoint x="1091.5" y="464.8" as="sourcePoint" />
             <mxPoint x="1138.5" y="464.8" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uP6F-fHS-fo912nJUHqv-1" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:center;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 12pt; color: black; font-weight: bold;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Logic Opt.&amp;nbsp; AIG =&amp;gt; AIG&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="116" y="511" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
