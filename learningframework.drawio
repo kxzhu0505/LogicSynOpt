@@ -10,7 +10,7 @@
         <mxCell id="uOctNLvVrp7-WB9e10jX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1E8F0;strokeColor=#000000;strokeWidth=2;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="12" y="7.25" width="634" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="uOctNLvVrp7-WB9e10jX-3" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;Feature Extractor&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ae3d22;strokeColor=#000000;strokeWidth=2;shadow=1;" parent="1" vertex="1">
+        <mxCell id="uOctNLvVrp7-WB9e10jX-3" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px; color: rgb(0, 0, 0);&quot;&gt;Feature Extractor&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="62.5" width="169" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="mRqJrL3Eu6v0HynvB5B--16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="uOctNLvVrp7-WB9e10jX-5" target="uOctNLvVrp7-WB9e10jX-6" edge="1">
@@ -19,7 +19,7 @@
         <mxCell id="uOctNLvVrp7-WB9e10jX-5" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Metric&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#136cb7;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="364.25" y="113" width="80" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="uOctNLvVrp7-WB9e10jX-6" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;Reward Function&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A23920;strokeColor=#000000;strokeWidth=2;shadow=1;" parent="1" vertex="1">
+        <mxCell id="uOctNLvVrp7-WB9e10jX-6" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px; color: rgb(0, 0, 0);&quot;&gt;Reward Function&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="113" width="170" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="uOctNLvVrp7-WB9e10jX-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D6D9EC;strokeColor=#000000;strokeWidth=2;shadow=1;" parent="1" vertex="1">
