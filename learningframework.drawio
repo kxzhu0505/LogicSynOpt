@@ -130,10 +130,10 @@
             <mxPoint x="332" y="132" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mRqJrL3Eu6v0HynvB5B--18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.018;entryY=0.606;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uOctNLvVrp7-WB9e10jX-3" target="mRqJrL3Eu6v0HynvB5B--5" edge="1">
+        <mxCell id="mRqJrL3Eu6v0HynvB5B--18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.018;entryY=0.606;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uOctNLvVrp7-WB9e10jX-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="77.5" as="sourcePoint" />
-            <mxPoint x="334" y="77.5" as="targetPoint" />
+            <mxPoint x="329.04999999999995" y="79.74800000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mRqJrL3Eu6v0HynvB5B--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.281;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="1" source="mRqJrL3Eu6v0HynvB5B--7" edge="1">
@@ -159,12 +159,6 @@
             <mxPoint x="206" y="232" as="sourcePoint" />
             <mxPoint x="206" y="148" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="PPSa7iiMIstqjjVd7r5D-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB266;strokeColor=#000000;strokeWidth=2;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="249.38" y="72.13" width="129.75" height="34.5" as="geometry" />
-        </mxCell>
-        <mxCell id="mRqJrL3Eu6v0HynvB5B--5" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Boost.python&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=south;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="271" y="77" width="92" height="25" as="geometry" />
         </mxCell>
         <mxCell id="PPSa7iiMIstqjjVd7r5D-18" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Tech. Lib.&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#136cb7;strokeColor=#000000;strokeWidth=2;shadow=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="50" y="220.25000000000006" width="95.5" height="31.5" as="geometry" />
