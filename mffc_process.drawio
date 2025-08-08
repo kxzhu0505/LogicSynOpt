@@ -284,8 +284,8 @@
         <mxCell id="OmzKmfgAjD7RHGHbsQaT-153" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#B20000;fillColor=#e51400;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1029" y="328" width="12" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="OmzKmfgAjD7RHGHbsQaT-154" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Select PO and Compute its MFFC&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="734" y="388" width="358" height="30" as="geometry" />
+        <mxCell id="OmzKmfgAjD7RHGHbsQaT-154" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;1. Select PO and Compute its MFFC&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="734" y="388" width="426" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OmzKmfgAjD7RHGHbsQaT-155" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;PO1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="765" y="343" width="93" height="20" as="geometry" />
